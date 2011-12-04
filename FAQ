@@ -1,0 +1,3 @@
+How do I manually expire a cache object using the api?
+
+  curl --request DELETE --header "x-gaem-api-key: <KEY>" http://www.example.org/index.html
