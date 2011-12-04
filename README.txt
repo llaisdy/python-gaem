@@ -1,6 +1,6 @@
 * gaem
 
-This is a fork of Silas Sewell's *Google App Engine Middleware (gaem)*, which is currently in his graveyard_ github repository.
+This is a fork of Silas Sewell's Google App Engine Middleware (gaem), which is currently in his graveyard_ github repository.
 
 ** Original README by Silas Sewell
 
